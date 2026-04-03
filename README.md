@@ -9,4 +9,4 @@ please use wisely. to start : <br>
 ```const SYSTEM_PROMPT```
 5. Save the file
 6. run ```npm install``` on your terminal
-7. ```node index.js``` and enjoy
+7. run ```node index.js``` and enjoy
