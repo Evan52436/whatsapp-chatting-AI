@@ -5,7 +5,7 @@ please use wisely. to start : <br>
 2. Generate .env file
 3. Edit the following .env file like this :
 ```GROQ_API_KEY=YOURAPIKEY```
-4. Modify the ```index.js``` edit line 14 <br>
+4. Modify the ```index.js``` edit line 16 <br>
 ```const SYSTEM_PROMPT```
 5. Save the file
 6. run ```npm install``` on your terminal
