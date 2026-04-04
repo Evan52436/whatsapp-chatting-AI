@@ -10,3 +10,9 @@ please use wisely. to start : <br>
 5. Save the file
 6. run ```npm install``` on your terminal
 7. run ```node index.js``` and enjoy
+
+# Release Note Version 1.1
+- AI makin pinter cuy
+- More Realistic typing speed
+- More Realistic message delay
+- Fix Bug
